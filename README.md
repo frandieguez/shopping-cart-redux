@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# React + Redux toolkit + TailwindCSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Build Status](https://travis-ci.org/frandieguez/shopping-cart-redux.svg?branch=master)](https://travis-ci.org/frandieguez/shopping-cart-redux)
+
+This project is just a way to review how to work with multiple technoligies around React + Redux. The aim is to create the specs below:
+
+-   Have a list of products in a cart
+-   Have a form to add new products
 
 ## Available Scripts
 
